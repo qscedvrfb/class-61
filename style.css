@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: aqua;
+
+}
+
+.line{
+    width: 70px;
+    height: 8px;
+    background-color: black;
+    margin-left: 630px;
+
+}
+
+#apps{
+    background-color: black;
+}
+#myCarousel{
+    background-color: red;
+}
